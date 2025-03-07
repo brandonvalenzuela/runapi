@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5meMJMSKC+TBTcYIipPhuS/p9Mu4h9Pd3s0rfVie+dI=",
+  "Source": "ApiRun",
+  "BasePath": "_content/ApiRun",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
